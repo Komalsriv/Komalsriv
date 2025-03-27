@@ -1,16 +1,24 @@
 ## Hi there 👋
+Welcome to my GitHub profile! I am Komal Srivastava, a passionate Master's graduate in Information Systems from Santa Clara University with 2+ years of experience. I am dedicated to leveraging technology to generate impactful insights, improve processes, and drive data-driven decision-making.
 
-<!--
-**Komalsriv/Komalsriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education and Certifications 
+- **Certifications:**  
+  - **Tableau Desktop Specialist** (2024)
 
-Here are some ideas to get you started:
+- **Master of Science in Information Systems**  
+  *Santa Clara University, Leavey School of Business, CA, USA* (2023)
+  
+- **Integrated Bachelor of Science and Master of Science in Computer Applications**  
+  *Amity University, Noida, India* (2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Feel free to explore my repositories and connect with me on LinkedIn or via email!
+
+---
+
+### ⚡ Let's Connect
+- **LinkedIn:** www.linkedin.com/in/komal-srivastava
+- **Email:** komalsrivastava1819@gmail.com
+- **Phone:** (669) 369-1422
+
+
