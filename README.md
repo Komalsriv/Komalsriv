@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub profile! I am Komal Srivastava, a passionate Master's graduate in Information Systems from Santa Clara University with 2+ years of experience. I am dedicated to leveraging technology to drive data-driven decision-making.
 
-## Education and Certifications 
+## Education and Certifications 🎓
 - **Certifications:**  
   - **Tableau Desktop Specialist** (2024)
 
